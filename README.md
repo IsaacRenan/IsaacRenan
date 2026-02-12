@@ -2,7 +2,7 @@
 
 👨‍💻 **Sobre mim**
 
-Sou **desenvolvedor Back-end com atuação em Full Stack**, focado na criação de soluções robustas, escaláveis e bem estruturadas, com atenção à qualidade do código e boas práticas de desenvolvimento.
+Sou **desenvolvedor Back-end com atuação em Python**, focado na criação de soluções robustas, escaláveis e bem estruturadas, com atenção à qualidade do código e boas práticas de desenvolvimento.
 
 🧠 **Experiência e projetos**
 
