@@ -38,7 +38,6 @@ Compartilhar projetos que demonstrem minha evolução técnica, capacidade anal�
 ## 🔹 O que eu faço
 
 -   🧩 Desenvolvimento de APIs REST e serviços back-end
--   ⚙️ Lógica de negócio e arquitetura
 -   🗄️ Modelagem e integração com bancos de dados relacionais
 -   🔐 Autenticação de API's e segurança
 -   🧪 Criação e organização de projetos escaláveis e testáveis
