@@ -6,7 +6,7 @@ Sou **desenvolvedor Back-end com atuação em Python**, focado na criação de s
 
 🧠 **Experiência e projetos**
 
-Possuo experiência prática no desenvolvimento de **APIs REST**, aplicações web e sistemas completos, atuando principalmente com **Python** e também com **Java**, além de **JavaScript, Node.js, Flet e SQLite**.
+Possuo experiência prática no desenvolvimento de **APIs REST**, aplicações web e sistemas completos, atuando principalmente com **Python** e também com **Java**, além de **JavaScript, Node.js, Next.js, Flet e SQLite**.
 Meus projetos incluem sistemas de gestão, aplicações interativas e jogos educacionais, sempre priorizando **arquitetura organizada**, separação de responsabilidades, performance e manutenibilidade.
 
 🚀 **Objetivo**
